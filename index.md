@@ -17,7 +17,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 1. 航天器轨迹优化数值方法
 2. 航天器交会对接、运载火箭故障条件下轨迹重构算法研究
 3. ...
-## 技能介绍
+
+
+## 个人荣誉
+- 2021.10  月球旅店设计大赛三等奖
+- 2022.01  第十八届“华为杯”研究生建模大赛二等奖
 
 
 ## 兴趣爱好
