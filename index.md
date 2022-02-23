@@ -15,8 +15,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## 研究方向
 1. 航天器轨迹优化数值方法
-2. 航天器交会对接、运载火箭故障条件下轨迹重构算法研究
-3. ...
+2. 航天器快速交会对接轨迹优化
+3. 运载火箭故障条件下轨迹快速重构
+4. 在线自主制导方法研究
+5. ...
 
 
 ## 个人荣誉
