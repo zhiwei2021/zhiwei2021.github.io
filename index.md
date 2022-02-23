@@ -1,8 +1,7 @@
 ## 欢迎来到张志伟的个人主页
 
-You can use the [editor on GitHub](https://github.com/zhiwei2021/zhiwei2021.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 张志伟(1997.08-~)  男  中共党员  中南大学航空航天学院研究生
+- 导师：赵党军教授
 
 ## 教育背景
 
