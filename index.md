@@ -1,10 +1,25 @@
-## Welcome to GitHub Pages
+## 欢迎来到张志伟的个人主页
 
 You can use the [editor on GitHub](https://github.com/zhiwei2021/zhiwei2021.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 学历及教育背景
+
+## 2020.09-至今   中南大学航空航天学院   硕士在读
+
+## 2016.09-2020.07  中南大学航空航天学院  学士学位
+
+### 工作及项目经历
+
+
+### 研究方向
+
+
+### 技能介绍
+
+
+### 兴趣爱好
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
