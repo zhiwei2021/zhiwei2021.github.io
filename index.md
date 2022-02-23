@@ -14,14 +14,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ## 研究方向
-###>>>航天器轨迹优化数值方法
-###>>>航天器交会对接、运载火箭故障条件下轨迹重构算法研究
-###>>>...
+1. 航天器轨迹优化数值方法
+2. 航天器交会对接、运载火箭故障条件下轨迹重构算法研究
+3. ...
 ## 技能介绍
 
 
 ## 兴趣爱好
-品美食，赏美景。
+- 品美食，赏美景。
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
