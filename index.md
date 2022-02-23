@@ -4,23 +4,24 @@ You can use the [editor on GitHub](https://github.com/zhiwei2021/zhiwei2021.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## 学历及教育背景
+## 教育背景
 
 ### 2020.09-至今   中南大学航空航天学院  航空宇航科学与技术  硕士在读
 
 ### 2016.09-2020.07  中南大学航空航天学院  探测制导有控制技术  学士学位
 
-## 工作及项目经历
+## 项目经历
 
 
 ## 研究方向
-
-
+###>>>航天器轨迹优化数值方法
+###>>>航天器交会对接、运载火箭故障条件下轨迹重构算法研究
+###>>>...
 ## 技能介绍
 
 
 ## 兴趣爱好
-
+品美食，赏美景。
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
